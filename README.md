@@ -76,7 +76,7 @@ These findings informed recommendations for improving clarity, comfort, and cont
 
 A complete, formatted version of the case study is available as a PDF in this repository:
 
-**ancient-mersin-vr-ux-case-study.pdf**
+**EMITT ANCIENT MERSIN.pdf**
 
 ---
 
